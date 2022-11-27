@@ -18,7 +18,7 @@ export const theme = {
     blue: '#007bff',
     purple: '#9336a5',
     violet: '#351049',
-    pink: '#ec4899',
+    pink: '#e100ff',
     gradient: 'linear-gradient(to right, #9336a5, #f78991)',
   },
 
